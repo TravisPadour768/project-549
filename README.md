@@ -27,9 +27,9 @@ also by Travis
 # TODO
 
 ### Homepage
-- Display weather (Weather API) **TRAVIS**
-- Surf report (Spitcast) 
-- User location **TRAVIS**
+- Display weather (Weather API) **TRAVIS** DONE
+- Surf report (Spitcast) DONE
+- User location **TRAVIS** DONE
 - Find activities button **JIE**
 - Activities (3 to 5 of them) **JIE**
   - Photos
